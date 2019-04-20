@@ -68,15 +68,15 @@ pf_expression_cableAccess to cable/satellite
 pf_expression_newspapersAccess to foreign newspapers
 pf_expression_internetState control over Internet access
 pf_expressionFreedom of expression
-pf_identity_legalLegal gender
-pf_identity_parental_marriageParental rights in marriage
-pf_identity_parental_divorceParental rights after divorce
+pf_identity_legal Legal gender
+pf_identity_parental_marriage Parental rights in marriage
+pf_identity_parental_divorce Parental rights after divorce
 pf_identity_parentalParental rights
 pf_identity_sex_maleMale-to-male relationships
 pf_identity_sex_femaleFemale-to-female relationships
 pf_identity_sexSame-sex ralitionships
-pf_identity_divorceDivorce
-pf_identityIdentity and relationships
+pf_identity_divorce Divorce
+pf_identity Identity and relationships
 pf_scorePersonal Freedom (score)
 pf_rankPersonal Freedom (rank)
 ef_government_consumptionGovernment consumption
@@ -136,6 +136,6 @@ ef_regulation_businessBusiness regulations
 ef_regulationRegulation
 ef_scoreEconomic Freedom (score)
 ef_rankEconomic Freedom (rank)
-hf_scoreHuman Freedom (score)
+hf_score Human Freedom (score)
 hf_rankHuman Freedom (rank)
 hf_quartileHuman Freedom (quartile)
