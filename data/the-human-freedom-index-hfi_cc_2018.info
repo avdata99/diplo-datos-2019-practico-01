@@ -1,5 +1,6 @@
 About this file
-The Human Freedom Index presents a broad measure of human freedom, understood as the absence of coercive constraint. It uses 79 distinct indicators of personal and economic freedom in the following areas:
+The Human Freedom Index presents a broad measure of human freedom, understood as the absence of coercive constraint.  
+It uses 79 distinct indicators of personal and economic freedom in the following areas:
 
 Rule of Law
 Security and Safety
@@ -13,129 +14,151 @@ Legal System and Property Rights
 Access to Sound Money
 Freedom to Trade Internationally
 Regulation of Credit, Labor, and Business
-The HFI is the most comprehensive freedom index so far created for a globally meaningful set of countries. The HFI covers 162 countries for 2016, the most recent year for which sufficient data are available and it includes three countries -Belarus, Iraq, and Sudan- that were added this year. The index ranks countries beginning in 2008, the earliest year for which a robust enough index could be produced.
+The HFI is the most comprehensive freedom index so far created for a globally meaningful set of countries.  
+The HFI covers 162 countries for 2016, the most recent year for which sufficient data are available and it includes 
+three countries -Belarus, Iraq, and Sudan- that were added this year. 
+The index ranks countries beginning in 2008, the earliest year for which a robust enough index could be produced.
 
 Columns
 year
 ISO_code
 countries
 region
-pf_rol_proceduralProcedural justice
-pf_rol_civilCivil justice
-pf_rol_criminalCriminal justice
-pf_rolRule of law
-pf_ss_homicideHomicide
-pf_ss_disappearances_disapDisappearances
-pf_ss_disappearances_violentViolent conflicts
-pf_ss_disappearances_organizedOrganized conflicts
-pf_ss_disappearances_fatalitiesTerrorism fatalities
-pf_ss_disappearances_injuriesTerrorism injuries
-pf_ss_disappearancesDisappearances, conflict, and terrorism
-pf_ss_women_fgmFemale genital mutilation
-pf_ss_women_missingMissing women
-pf_ss_women_inheritance_widowsInheritance rights for widows
-pf_ss_women_inheritance_daughtersInheritance rights for daughters
-pf_ss_women_inheritanceInheritance
-pf_ss_womenWomen's security
-pf_ssSecurity and safety
-pf_movement_domesticFreedom of domestic movement
-pf_movement_foreignFreedom of foreign movement
-pf_movement_womenWomen's movement
-pf_movementFreedom of movement
-pf_religion_estop_establishFreedom to establish religious organizations
-pf_religion_estop_operateFreedom to operate religious organizations
-pf_religion_estopFreedom to establish and operate religious organizations
-pf_religion_harassmentHarassment and physical hostilities
-pf_religion_restrictionsLegal and regulatory restrictions
-pf_religionReligious freedom
-pf_association_associationFreedom of association
-pf_association_assemblyFreedom of assembly
-pf_association_political_establishFreedom to establish political parties
-pf_association_political_operateFreedom to operate political parties
-pf_association_politicalFreedom to establish and operate political parties
-pf_association_prof_establishFreedom to establish professional organizations
-pf_association_prof_operateFreedom to operate professional organizations
-pf_association_profFreedom to establish and operate professional organizations
-pf_association_sport_establishFreedom to establish educational, sporting, and cultural organizations
-pf_association_sport_operateFreedom to operate educational, sporting, and cultural organizations
-pf_association_sportFreedom to establish and operate educational, sporting, and cultural organizations
-pf_associationFreedom to associate and assemble with peaceful individuals or organizations
-pf_expression_killedPress killed
-pf_expression_jailedPress jailed
-pf_expression_influenceLaws and regulations that influence media content
-pf_expression_controlPolitical pressures and controls on media content
-pf_expression_cableAccess to cable/satellite
-pf_expression_newspapersAccess to foreign newspapers
-pf_expression_internetState control over Internet access
-pf_expressionFreedom of expression
+pf_rol_procedural Procedural justice
+pf_rol_civil Civil justice
+pf_rol_criminal Criminal justice
+pf_rol Rule of law
+pf_ss_homicide Homicide
+
+pf_ss_disappearances_disap Disappearances
+pf_ss_disappearances_violent Violent conflicts
+pf_ss_disappearances_organized Organized conflicts
+pf_ss_disappearances_fatalities Terrorism fatalities
+pf_ss_disappearances_injuries Terrorism injuries
+pf_ss_disappearances Disappearances, conflict, and terrorism
+
+pf_ss_women_fgm Female genital mutilation
+pf_ss_women_missing Missing women
+pf_ss_women_inheritance_widows Inheritance rights for widows
+pf_ss_women_inheritance_daughters Inheritance rights for daughters
+pf_ss_women_inheritance Inheritance
+pf_ss_women Women's security
+
+pf_ss Security and safety
+
+pf_movement_domestic Freedom of domestic movement
+pf_movement_foreign Freedom of foreign movement
+pf_movement_women Women's movement
+pf_movement Freedom of movement
+
+pf_religion_estop_establish Freedom to establish religious organizations
+pf_religion_estop_operate Freedom to operate religious organizations
+pf_religion_estop Freedom to establish and operate religious organizations
+pf_religion_harassment Harassment and physical hostilities
+pf_religion_restrictions Legal and regulatory restrictions
+pf_religion Religious freedom
+
+pf_association_association Freedom of association
+pf_association_assembly Freedom of assembly
+pf_association_political_establish Freedom to establish political parties
+pf_association_political_operate Freedom to operate political parties
+pf_association_political Freedom to establish and operate political parties
+pf_association_prof_establish Freedom to establish professional organizations
+pf_association_prof_operate Freedom to operate professional organizations
+pf_association_prof Freedom to establish and operate professional organizations
+pf_association_sport_establish Freedom to establish educational, sporting, and cultural organizations
+pf_association_sport_operate Freedom to operate educational, sporting, and cultural organizations
+pf_association_sport Freedom to establish and operate educational, sporting, and cultural organizations
+pf_association Freedom to associate and assemble with peaceful individuals or organizations
+
+pf_expression_killed Press killed
+pf_expression_jailed Press jailed
+pf_expression_influence Laws and regulations that influence media content
+pf_expression_control Political pressures and controls on media content
+pf_expression_cable Access to cable/satellite
+pf_expression_newspapers Access to foreign newspapers
+pf_expression_internet State control over Internet access
+pf_expression Freedom of expression
+
 pf_identity_legal Legal gender
 pf_identity_parental_marriage Parental rights in marriage
 pf_identity_parental_divorce Parental rights after divorce
-pf_identity_parentalParental rights
-pf_identity_sex_maleMale-to-male relationships
-pf_identity_sex_femaleFemale-to-female relationships
-pf_identity_sexSame-sex ralitionships
+pf_identity_parental Parental rights
+pf_identity_sex_male Male-to-male relationships
+pf_identity_sex_female Female-to-female relationships
+pf_identity_sex Same-sex ralitionships
 pf_identity_divorce Divorce
 pf_identity Identity and relationships
-pf_scorePersonal Freedom (score)
-pf_rankPersonal Freedom (rank)
-ef_government_consumptionGovernment consumption
-ef_government_transfersTransfers and subsidies
-ef_government_enterprisesGovernment enterprises and investments
-ef_government_tax_incomeTop marginal income tax rate
-ef_government_tax_payrollTop marginal income and payroll tax rate
-ef_government_taxTop marginal tax rate
-ef_governmentSize of government
-ef_legal_judicialJudicial independence
-ef_legal_courtsImpartial courts
-ef_legal_protectionProtection of property rights
-ef_legal_militaryMilitary interference in rule of law and politics
-ef_legal_integrityIntegrity of the legal system
-ef_legal_enforcementLegal enforcement of contracts
-ef_legal_restrictionsRegulatory restrictions on the sale of real property
-ef_legal_policeReliability of police
-ef_legal_crimeBusiness costs of crime
-ef_legal_genderGender adjustment
-ef_legalLegal system and property rights
-ef_money_growthMoney growth
-ef_money_sdStandard deviation of inflation
-ef_money_inflationInflation: most recent year
-ef_money_currencyFreedom to own foreign currency bank account
-ef_moneySound money
-ef_trade_tariffs_revenueRevenue from trade taxes (% of trade sector)
-ef_trade_tariffs_meanMean tariff rate
-ef_trade_tariffs_sdStandard deviation of tariffs rates
-ef_trade_tariffsTariffs
-ef_trade_regulatory_nontariffNontariff trade barriers
-ef_trade_regulatory_complianceCompliance costs of importing and exporting
-ef_trade_regulatoryRegulatory trade barriers
-ef_trade_blackBlack-market exchange rates
-ef_trade_movement_foreignForeign ownership/investment restrictions
-ef_trade_movement_capitalCapital controls
-ef_trade_movement_visitFreedom of foreigners to visit
-ef_trade_movementControls of the movement of capital and people
-ef_tradeFreedom to trade internationally
-ef_regulation_credit_ownershipOwnership of banks
-ef_regulation_credit_privatePrivate sector credit
-ef_regulation_credit_interestInterest rate controls
-ef_regulation_creditCredit market regulations
-ef_regulation_labor_minwageHiring regulations and minimum wage
-ef_regulation_labor_firingHiring and firing regulations
-ef_regulation_labor_bargainCentralized collective bargaining
-ef_regulation_labor_hoursHours regulations
-ef_regulation_labor_dismissalMandated cost of worker dismissal
-ef_regulation_labor_conscriptionConscription
-ef_regulation_laborLabor market regulations
-ef_regulation_business_admAdministrative requirements
-ef_regulation_business_bureaucracyBureaucracy costs
-ef_regulation_business_startStarting a business
-ef_regulation_business_bribesExtra payments/bribes/favoritism
-ef_regulation_business_licensingLicensing restrictions
-ef_regulation_business_complianceCost of tax compliance
-ef_regulation_businessBusiness regulations
-ef_regulationRegulation
-ef_scoreEconomic Freedom (score)
-ef_rankEconomic Freedom (rank)
+
+pf_score Personal Freedom (score)
+pf_rank Personal Freedom (rank)
+
+ef_government_consumption Government consumption
+ef_government_transfers Transfers and subsidies
+ef_government_enterprises Government enterprises and investments
+ef_government_tax_income Top marginal income tax rate
+ef_government_tax_payroll Top marginal income and payroll tax rate
+ef_government_tax Top marginal tax rate
+ef_government Size of government
+
+ef_legal_judicial Judicial independence
+ef_legal_courts Impartial courts
+ef_legal_protection Protection of property rights
+ef_legal_military Military interference in rule of law and politics
+ef_legal_integrity Integrity of the legal system
+ef_legal_enforcement Legal enforcement of contracts
+ef_legal_restrictions Regulatory restrictions on the sale of real property
+ef_legal_police Reliability of police
+ef_legal_crime Business costs of crime
+ef_legal_gender Gender adjustment
+ef_legal Legal system and property rights
+
+ef_money_growth Money growth
+ef_money_sd Standard deviation of inflation
+ef_money_inflation Inflation: most recent year
+ef_money_currency Freedom to own foreign currency bank account
+ef_money Sound money
+
+ef_trade_tariffs_revenue Revenue from trade taxes (% of trade sector)
+ef_trade_tariffs_mean Mean tariff rate
+ef_trade_tariffs_sd Standard deviation of tariffs rates
+ef_trade_tariffs Tariffs
+
+ef_trade_regulatory_nontariff Nontariff trade barriers
+ef_trade_regulatory_compliance Compliance costs of importing and exporting
+ef_trade_regulatory Regulatory trade barriers
+
+ef_trade_black Black-market exchange rates
+
+ef_trade_movement_foreign Foreign ownership/investment restrictions
+ef_trade_movement_capital Capital controls
+ef_trade_movement_visit Freedom of foreigners to visit
+ef_trade_movement Controls of the movement of capital and people
+
+ef_trade Freedom to trade internationally
+
+ef_regulation_credit_ownership Ownership of banks
+ef_regulation_credit_private Private sector credit
+ef_regulation_credit_interest Interest rate controls
+ef_regulation_credit Credit market regulations
+ef_regulation_labor_minwage Hiring regulations and minimum wage
+ef_regulation_labor_firing Hiring and firing regulations
+ef_regulation_labor_bargain Centralized collective bargaining
+ef_regulation_labor_hours Hours regulations
+ef_regulation_labor_dismissal Mandated cost of worker dismissal
+ef_regulation_labor_conscription Conscription
+ef_regulation_labor Labor market regulations
+ef_regulation_business_adm Administrative requirements
+ef_regulation_business_bureaucracy Bureaucracy costs
+ef_regulation_business_start Starting a business
+ef_regulation_business_bribes Extra payments/bribes/favoritism
+ef_regulation_business_licensing Licensing restrictions
+ef_regulation_business_compliance Cost of tax compliance
+ef_regulation_business Business regulations
+ef_regulation Regulation
+
+ef_score Economic Freedom (score)
+ef_rank Economic Freedom (rank)
 hf_score Human Freedom (score)
-hf_rankHuman Freedom (rank)
-hf_quartileHuman Freedom (quartile)
+hf_rank Human Freedom (rank)
+hf_quartile Human Freedom (quartile)
